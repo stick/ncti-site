@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Site Title
+title: NCTI
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+description: North Carolina Disc Golf's Premier Matchplay Event
+logo: site-logo.jpg
 search: true
 url: http://localhost:4000
 
@@ -31,9 +31,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Chris 'Stick' MacLeod
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: stick@miscellaneous.net
   disqus-shortname:
   twitter: #username
   facebook: #username

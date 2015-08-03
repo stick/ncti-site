@@ -3,17 +3,20 @@
 - title: About
   url: /about/
 
-- title: Articles
-  url: /articles/
+- title: The Rules
+  url: /rules/
+
+- title: The Format
+  url: /format/
+
+- title: The Course
+  url: /course/
+
+- title: The Teams
+  url: /teams/
 
 - title: Blog
   url: /blog/
-
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: Made Mistakes
-  url: http://mademistakes.com
 
 - title: Search
   url: /search/
