@@ -5,7 +5,9 @@ date: 2015-08-03T14:05:15-04:00
 modified:
 excerpt: "Tournament format and details"
 image:
-  feature:
+  feature: ncti-masthead-4.jpg
+  credit: Barrett PanŦon Photography
+  creditlink: http://www.miscellaneous.net
 ---
 
 Each team consists of 7 team members, see [The Rules](/rules/) for team makeup.
