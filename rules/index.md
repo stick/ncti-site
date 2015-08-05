@@ -5,8 +5,8 @@ date: 2015-08-04T10:06:09-04:00
 modified:
 excerpt:
 image:
-  feature: ncti-masthead-2.jpg
-  credit: Barrett PanŦon Photography
+  feature: mastheads/ncti-masthead-adam.png
+  credit: BarreŦ PanŦon Photography
   creditlink: http://www.miscellaneous.net
 ---
 

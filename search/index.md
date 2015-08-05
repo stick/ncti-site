@@ -5,7 +5,9 @@ date:
 modified:
 excerpt:
 image:
-  feature:
+  feature: mastheads/ncti-masthead-waylan.png
+  credit: BarreŦ PanŦon Photography
+  creditlink: http://www.miscellaneous.net
 search_omit: true
 sitemap: false
 ---
