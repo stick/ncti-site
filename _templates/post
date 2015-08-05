@@ -6,5 +6,7 @@ categories: {{ dir }}
 excerpt:
 tags: []
 image:
-  feature:
+  feature: mastheads/ncti-masthead-basket.png
+  credit: BarreŦ PanŦon Photography
+  creditlink: https://www.facebook.com/burbleall
 ---

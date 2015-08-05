@@ -1,17 +1,17 @@
 ---
 layout: page
 title: "Search"
-date: 
+date:
 modified:
 excerpt:
 image:
-  feature: mastheads/ncti-masthead-waylan.png
+  feature: mastheads/ncti-masthead-basket.png
   credit: BarreŦ PanŦon Photography
-  creditlink: http://www.miscellaneous.net
+  creditlink: https://www.facebook.com/burbleall
 search_omit: true
 sitemap: false
 ---
-  
+
 <!-- Search form -->
 <form method="get" action="{{ site.url }}/search/" data-search-form class="simple-search">
   <label for="q">Search {{ site.title }} for:</label>

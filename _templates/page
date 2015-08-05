@@ -5,5 +5,7 @@ date: {{ date }}
 modified:
 excerpt:
 image:
-  feature: 
+  feature: mastheads/ncti-masthead-trophy.png
+  credit: BarreŦ PanŦon Photography
+  creditlink: https://www.facebook.com/burbleall
 ---

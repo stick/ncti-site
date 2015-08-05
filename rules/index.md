@@ -7,7 +7,7 @@ excerpt:
 image:
   feature: mastheads/ncti-masthead-adam.png
   credit: BarreŦ PanŦon Photography
-  creditlink: http://www.miscellaneous.net
+  creditlink: https://www.facebook.com/burbleall
 ---
 
 Matchplay is a different animal.  It involves strategy and focused aggression.

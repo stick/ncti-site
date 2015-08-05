@@ -7,7 +7,7 @@ excerpt:
 image:
   feature: mastheads/ncti-masthead-waylan.png
   credit: BarreŦ PanŦon Photography
-  creditlink: http://www.miscellaneous.net
+  creditlink: https://www.facebook.com/burbleall
 ---
 
 UniŦy Farm affectionally known as Ŧhe Farm is a working pine tree farm on the 

@@ -6,7 +6,7 @@ modified: 2014-08-08T20:04:41.231140-04:00
 image:
   feature: mastheads/ncti-masthead-wiggins.png
   credit: BarreŦ PanŦon Photography
-  creditlink: http://www.miscellaneous.net
+  creditlink: https://www.facebook.com/burbleall
 ---
 
 Each Team will consist of 7 members.

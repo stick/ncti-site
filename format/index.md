@@ -7,7 +7,7 @@ excerpt: "Tournament format and details"
 image:
   feature: mastheads/ncti-masthead-lindsey.png
   credit: BarreŦ PanŦon Photography
-  creditlink: http://www.miscellaneous.net
+  creditlink: https://www.facebook.com/burbleall
 ---
 
 Each team consists of 7 team members, see [The Teams](/teams/) for team makeup.
