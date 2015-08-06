@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "The Format"
+title: "Ŧhe Format"
 date: 2015-08-03T14:05:15-04:00
 modified:
 excerpt: "Tournament format and details"

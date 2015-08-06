@@ -38,7 +38,7 @@ Chris 'Stick' MacLeod
 ## Logos and Photography
 
 <figure>
-    <img src="/images/ncti-logo-small.png" alt="Logo by Kris Hensler">
+    <img src="/images/ncti-logo-square.png" alt="Logo by Kris Hensler">
     <figcaption>Logo by Kris Hensler</figcaption>
 </figure>
 

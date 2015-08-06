@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "The Rules of Matchplay"
+title: Ŧhe Rules of Matchplay
 date: 2015-08-04T10:06:09-04:00
 modified:
 excerpt:

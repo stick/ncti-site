@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "The Course"
+title: "Ŧhe Course"
 date: 2015-08-03T14:05:42-04:00
 modified:
 excerpt:
 image:
-  feature: mastheads/ncti-masthead-waylan.png
+  feature: mastheads/ncti-masthead-farmsunset.png
   credit: BarreŦ PanŦon Photography
   creditlink: https://www.facebook.com/burbleall
 ---

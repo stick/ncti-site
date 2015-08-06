@@ -1,8 +1,12 @@
 ---
 layout: page
-title: The News
+title: Ŧhe News
 excerpt: "Archive of all posts."
 search_omit: true
+image:
+  feature: mastheads/ncti-masthead-trophy.png
+  credit: BarreŦ PanŦon Photography
+  creditlink: https://www.facebook.com/burbleall
 ---
 
 <ul class="post-list">

@@ -5,7 +5,7 @@ date:
 modified:
 excerpt:
 image:
-  feature: mastheads/ncti-masthead-basket.png
+  feature: mastheads/ncti-masthead-nateputting.png
   credit: BarreŦ PanŦon Photography
   creditlink: https://www.facebook.com/burbleall
 search_omit: true
