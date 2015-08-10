@@ -38,12 +38,12 @@ Chris 'Stick' MacLeod
 ## Logos and Photography
 
 <figure>
-    <img src="{{ site_url }}/images/ncti-logo-square.png" alt="Logo by Kris Hensler">
+    <img src="{{ site.url }}/images/ncti-logo-square.png" alt="Logo by Kris Hensler">
     <figcaption>Logo by Kris Hensler</figcaption>
 </figure>
 
 <figure>
-    <img src="{{ site_url }}/images/barrett.png" alt="Barret">
+    <img src="{{ site.url }}/images/barrett.png" alt="Barret">
     <figcaption>&copy; Photography by <a href="https://www.facebook.com/burbleall">Barrett Pantton</a></figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ Chris 'Stick' MacLeod
 ## Very Special Thanks
 
 <figure>
-    <img src="/ncti/images/cutt-stacy.png" alt="Cutt &amp; Stacy">
+    <img src="{{ site.url }}/images/cutt-stacy.png" alt="Cutt &amp; Stacy">
     <figcaption>Cutt &amp; Stacy</figcaption>
 </figure>
 

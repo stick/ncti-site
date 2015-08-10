@@ -11,9 +11,11 @@ image:
 ---
 
 <figure>
-<img src="{{ site_url }}/images/course-map.jpg" alt="Course Map">
-<img src="{{ site_url }}/images/course-scorecard.jpg" alt="Scorecard">
-<figcaption>Maps and scorecard by <a href="http://paulvignolaphotography.com/">ChiTown Paul</a></figcaption>
+    <a href="{{ site.url }}/images/course-map.jpg" alt="Course Map">
+    <img src="{{ site.url }}/images/course-map.jpg" alt="Course Map"></a>
+    <a href="{{ site.url }}/images/course-scorecard.jpg" alt="Scorecard">
+    <img src="{{ site.url }}/images/course-scorecard.jpg" alt="Scorecard"></a>
+    <figcaption>Maps and scorecard by <a href="http://paulvignolaphotography.com/">ChiTown Paul</a></figcaption>
 </figure>
 
 UniTy Farm affectionally known as The Farm is a working pine tree farm on the
