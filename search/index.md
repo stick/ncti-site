@@ -6,7 +6,7 @@ modified:
 excerpt:
 image:
   feature: mastheads/ncti-masthead-nateputting.png
-  credit: BarreŦ PanŦon Photography
+  credit: Barrett Pantton Photography
   creditlink: https://www.facebook.com/burbleall
 search_omit: true
 sitemap: false

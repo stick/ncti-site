@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Ŧhe Rules of Matchplay
+title: The Rules of Matchplay
 date: 2015-08-04T10:06:09-04:00
 modified:
 excerpt:
 image:
   feature: mastheads/ncti-masthead-adam.png
-  credit: BarreŦ PanŦon Photography
+  credit: Barrett Pantton Photography
   creditlink: https://www.facebook.com/burbleall
 ---
 

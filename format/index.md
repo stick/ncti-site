@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Ŧhe Format"
+title: "The Format"
 date: 2015-08-03T14:05:15-04:00
 modified:
 excerpt: "Tournament format and details"
 image:
   feature: mastheads/ncti-masthead-lindsey.png
-  credit: BarreŦ PanŦon Photography
+  credit: Barrett Pantton Photography
   creditlink: https://www.facebook.com/burbleall
 ---
 

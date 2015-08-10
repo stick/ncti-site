@@ -5,7 +5,7 @@ excerpt: "History of NCTI"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: mastheads/ncti-masthead-waylan.png
-  credit: BarreŦ PanŦon Photography
+  credit: Barrett Pantton Photography
   creditlink: https://www.facebook.com/burbleall
 ---
 
@@ -44,10 +44,10 @@ Chris 'Stick' MacLeod
 
 <figure>
     <img src="{{ site_url }}/images/barrett.png" alt="Barret">
-    <figcaption>&copy; Photography by <a href="https://www.facebook.com/burbleall">BarreŦ PanŦon</a></figcaption>
+    <figcaption>&copy; Photography by <a href="https://www.facebook.com/burbleall">Barrett Pantton</a></figcaption>
 </figure>
 
-## Ŧhe Farm Grounds Crew
+## The Farm Grounds Crew
 
 * ChiTown Paul (Also course maps and scorecards)
 * Calamari Jones

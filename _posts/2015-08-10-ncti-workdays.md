@@ -7,7 +7,7 @@ excerpt:
 tags: [ workdays, ncti ]
 image:
   feature: mastheads/ncti-masthead-basket.png
-  credit: BarreŦ PanŦon Photography
+  credit: Barrett Pantton Photography
   creditlink: https://www.facebook.com/burbleall
 date: 2015-08-10T11:56:47-04:00
 ---
