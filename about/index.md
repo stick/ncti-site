@@ -38,14 +38,19 @@ Chris 'Stick' MacLeod
 ## Logos and Photography
 
 <figure>
-    <img src="/ncti/images/ncti-logo-square.png" alt="Logo by Kris Hensler">
+    <img src="{{ site_url }}/images/ncti-logo-square.png" alt="Logo by Kris Hensler">
     <figcaption>Logo by Kris Hensler</figcaption>
 </figure>
 
 <figure>
-    <img src="/ncti/images/barrett.png" alt="Barret">
+    <img src="{{ site_url }}/images/barrett.png" alt="Barret">
     <figcaption>&copy; Photography by <a href="https://www.facebook.com/burbleall">BarreŦ PanŦon</a></figcaption>
 </figure>
+
+## Ŧhe Farm Grounds Crew
+
+* ChiTown Paul (Also course maps and scorecards)
+* Calamari Jones
 
 ## Very Special Thanks
 
