@@ -33,14 +33,19 @@ image:
 
 * Lakefront/Tenessee
     + Tim Barr
+
+## Standby Teams
+* Brackets Bluff
+    + David Tucker
+* Hickory
+    + Brad Smith
+* VA
+    + Rob 'Robzilla' Stewart
+
+## 2016 Waitlist
 * HHome/Va
     + John Biscoe
 * South Carolina
     + Alan Beaver
 
-## Standby Teams
-* Hickory
-    + Brad Smith
-* Brackets Bluff
-
-Interested in fielding a team?  Contact us!
+Interested in fielding a team?  <a href='mailto:stick{at}miscellaneous{dot}net'>Contact us!</a>

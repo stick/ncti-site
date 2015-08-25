@@ -12,7 +12,7 @@ image:
 
 Each team consists of 7 team members, see [The Teams](/teams/) for team makeup.
 
-There are [12 Teams](/teams/invited) split into 2 divisions, the Moon division and the
+There are 12 Teams split into 2 divisions, the Moon division and the
 Shine division.
 
 ## Group Play

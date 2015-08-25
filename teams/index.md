@@ -19,7 +19,7 @@ Each Team will consist of 7 members.
 
 Starting with 2015 if you play for a team you cannot play for another team the
 the following year.  You must either play for the same team or sit out 1 year.
-Women are excempt from this rule and may play for any team at any time.
+Women are exempt from this rule and may play for any team at any time.
 
 Pro
 : Must be current resident of team's home state
