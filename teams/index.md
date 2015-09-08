@@ -12,7 +12,7 @@ image:
 Each Team will consist of 7 members.
 
 - 3 Pros
-- 1 Ringer
+- 1 Wildcard
 - 1 Masters
 - 1 Amateur
 - 1 Woman
@@ -24,9 +24,9 @@ Women are exempt from this rule and may play for any team at any time.
 Pro
 : Must be current resident of team's home state
 
-Ringer
+Wildcard
 : No restrictions, may be from any location
-: Ringers are a set seed, they will only play other ringers
+: Wildcards are a set seed, they will only play other wildcards
 
 Master
 : Must be current resident of team's home state
@@ -43,11 +43,11 @@ Woman
 
 Each team may only have 2 players who's current pdga rating is over 1000.
 
-The ringer spot is designed to allow teams to have an honor spot for someone who
+The wildcard spot is designed to allow teams to have an honor spot for someone who
 isn't from their home state.  There are no restrictions on this spot.  However 
-a player denoted as the ringer will only play the other ringers on other teams
+a player denoted as the wildcard will only play the other wildcards on other teams
 and cannot be seeded in any other place.
 
 Teams may designate up to 2 alternates.  Alternates can be one-time subbed in
-for any seed (except the ringer) that they qualify for.  Once you replace a
+for any seed (except the wildcard) that they qualify for.  Once you replace a
 player you cannot sub them back in again.

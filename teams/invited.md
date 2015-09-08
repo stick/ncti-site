@@ -14,8 +14,8 @@ image:
     + Jason 'Cutt' Land
 * C4 (2014 Defending Champions)
     + Jay 'Jaypo' Pontier
-* Charlotte
-    + Henry Childress
+* The QC
+    + Debbie Scott
 * Greenville Disc Golf
     + Max Crotts
 * Down East
@@ -28,24 +28,23 @@ image:
     + Brad McCoy
 * TCP
     + Bobby Henn
-
-## Out of State Teams
-
-* Lakefront/Tenessee
-    + Tim Barr
-
-## Standby Teams
 * Brackets Bluff
     + David Tucker
-* Hickory
-    + Brad Smith
-* VA
-    + Rob 'Robzilla' Stewart
+
+## Out of State Teams
+* Richmond
+    + Jon Greene
+
+## Standby Teams
 
 ## 2016 Waitlist
 * HHome/Va
     + John Biscoe
+* Lakefront/Tenessee
+    + Tim Barr
 * South Carolina
     + Alan Beaver
+* Myrtle Beach
+    + Chris Brown
 
 Interested in fielding a team?  <a href='mailto:stick{at}miscellaneous{dot}net'>Contact us!</a>

@@ -62,4 +62,7 @@ The following finishing positions will be awarded.
 * Runner-up
 * Moon division winner
 * Shine division winner
-* The team member in each seed with the best record 
+* The team member in each seed with the best record
+
+A Portion of each teams entry fees will also go to greens fees for The Farm and
+a charity or good cause as determined by Cutt and myself.
