@@ -19,10 +19,11 @@ Shine division.
 
 Each team member will play 5 matches over the course of 2 days, 4 matches on Saturday, 1 match Sunday morning.
 
-Each match will be 9 holes, singles, seed vs seed,  [standard matchplay](/matchplay-rules/).
+Each match will be 10 holes, singles, seed vs seed,  [standard matchplay](/matchplay-rules/).
 
-Each match is worth 2 points, so each round there are 14 available points for your team.
-Matches tied after 9 holes are a draw, each team will be awarded 1 point.
+Each match is worth 3 points, except the wildcard match which is worth 2 points,
+so each round there are 20 available points for your team.
+Matches tied after 10 holes are a draw, each team will be awarded 1 point.
 
 At the conclusion of group play, the 2 teams with the most points in their respective
 divisions will play in the semis.
@@ -40,18 +41,18 @@ to win big and win early than let your opponent linger on and win at the end.
 The #1 seed in the Moon division will play the #2 seed in the Shine division.
 The #1 seed in the Shine division will play the #2 seed in the Moon division.
 
-Each team member will play a 9 hole match against their opponent seed.  Matches
-must have a winner and will play sudden death on the next hole if tied after 9 holes.
+Each team member will play a 10 hole match against their opponent seed.  Matches
+must have a winner and will play sudden death on the next hole if tied after 10 holes.
 
 ## The Finals
 
-Each team member will play a 9 hole match against their opponent seed.  Matches
-must have a winner and will play sudden death on the next hole if tied after 9 holes.
+Each team member will play a 10 hole match against their opponent seed.  Matches
+must have a winner and will play sudden death on the next hole if tied after 10 holes.
 
 ## Elimination
 
 The bottom team in the Moon division will play the bottom team in the Shine division
-in a 9 hole match (During the semis).  The loser of the match may not be invited
+in a 10 hole match (During the semis).  The loser of the match may not be invited
 back next year.
 
 # Payout
