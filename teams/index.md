@@ -9,13 +9,13 @@ image:
   creditlink: https://www.facebook.com/burbleall
 ---
 
-Each Team will consist of 7 members.
+Each Team will consist of 9 members.
 
-- 3 Pros
-- 1 Wildcard
-- 1 Masters
-- 1 Amateur
+- 4 Pros
+- 2 Masters
 - 1 Woman
+- 1 Grandmasters
+- 1 Amateur
 
 Starting with 2015 if you play for a team you cannot play for another team the
 the following year.  You must either play for the same team or sit out 1 year.
@@ -24,13 +24,13 @@ Women are exempt from this rule and may play for any team at any time.
 Pro
 : Must be current resident of team's home state
 
-Wildcard
-: No restrictions, may be from any location
-: Wildcards are a set seed, they will only play other wildcards
-
 Master
 : Must be current resident of team's home state
 : Age 40 or higher during the calendar year of the event
+
+Grandmaster
+: Must be current resident of team's home state
+: Age 50 or higher during the calendar year of the event
 
 Amateur
 : Must be current resident of team's home state
@@ -43,11 +43,6 @@ Woman
 
 Each team may only have 2 players who's current pdga rating is over 1000.
 
-The wildcard spot is designed to allow teams to have an honor spot for someone who
-isn't from their home state.  There are no restrictions on this spot.  However 
-a player denoted as the wildcard will only play the other wildcards on other teams
-and cannot be seeded in any other place.
-
 Teams may designate up to 2 alternates.  Alternates can be one-time subbed in
-for any seed (except the wildcard) that they qualify for.  Once you replace a
+for any seed that they qualify for.  Once you replace a
 player you cannot sub them back in again.

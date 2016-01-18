@@ -10,19 +10,19 @@ image:
   creditlink: https://www.facebook.com/burbleall
 ---
 
-Each team consists of 7 team members, see [The Teams](/teams/) for team makeup.
+Each team consists of 9 team members, see [The Teams](/teams/) for team makeup.
 
-There are 12 Teams split into 2 divisions, the Moon division and the
+There are 8 Teams split into 2 divisions, the Moon division and the
 Shine division.
 
 ## Group Play
 
-Each team member will play 5 matches over the course of 2 days, 4 matches on Saturday, 1 match Sunday morning.
+Each team member will play 6 matches over the course of 2 days, 4 matches on Saturday, 2 match Sunday morning.
 
 Each match will be 10 holes, singles, seed vs seed,  [standard matchplay](/matchplay-rules/).
 
-Each match is worth 3 points, except the wildcard match which is worth 2 points,
-so each round there are 20 available points for your team.
+Each match is worth 2 points,
+so each round there are 18 available points for your team.
 Matches tied after 10 holes are a draw, each team will be awarded 1 point.
 
 At the conclusion of group play, the 2 teams with the most points in their respective
@@ -30,10 +30,10 @@ divisions will play in the semis.
 
 Group tiebreakers are team holes won, followed by holes remaining.
 
-Team A: 35 points; won 17 matches all 1 and 0 (1UP with 0 holes remaining)
-Team B: 35 points; won 17 matches all 2 and 1 (2UP with 1 hole remaining)
+Team A: 36 points; won 18 matches all 1 and 0 (1UP with 0 holes remaining)
+Team B: 36 points; won 18 matches all 2 and 1 (2UP with 1 hole remaining)
 
-Team B would hold the first and second tiebreaker. So in short it's always better
+Team B (36pts / 18 pts) would hold the first and second tiebreaker over Team A (18pts / 0pts). So in short it's always better
 to win big and win early than let your opponent linger on and win at the end.
 
 ## The Semis
@@ -48,12 +48,6 @@ must have a winner and will play sudden death on the next hole if tied after 10 
 
 Each team member will play a 10 hole match against their opponent seed.  Matches
 must have a winner and will play sudden death on the next hole if tied after 10 holes.
-
-## Elimination
-
-The bottom team in the Moon division will play the bottom team in the Shine division
-in a 10 hole match (During the semis).  The loser of the match may not be invited
-back next year.
 
 # Payout
 
