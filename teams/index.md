@@ -39,7 +39,7 @@ Amateur
 : Cannot have accepted cash in a PDGA event (no amnesty)
 
 Woman
-: Must be current resident of team's home state
+: No geographic restrictions
 
 Each team may only have 2 players who's current pdga rating is over 1000.
 
