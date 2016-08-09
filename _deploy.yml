@@ -1,0 +1,12 @@
+method: rsync                             # How do you want to deploy? git, rsync or s3.
+site_dir: _site                           # Location of your static site files.
+
+user: stick@neurosis.miscellaneous.net    # The user for your host, e.g. user@host.com
+remote_path: /var/www/html/ncti/          # Destination directory
+delete: true                              # Remove files from destination which don't match files in source
+port: 22                                  # If your host requires a non standard port
+flags: -avzCP                             # Modify flags as necessary to suit your hosting setup
+
+exclude-from: rsync-exclude.txt           # Path to file containing list of files to exclude
+# include:                                # files to include
+# include-from:                           # Path to file containing list of files to include
