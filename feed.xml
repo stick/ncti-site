@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">NCTI</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://www.miscellaneous.net/ncti/feed.xml" />
-<link rel="alternate" type="text/html" href="http://www.miscellaneous.net/ncti" />
-<updated>2016-06-06T12:14:06-04:00</updated>
-<id>http://www.miscellaneous.net/ncti/</id>
+<link rel="self" type="application/atom+xml" href="/ncti//feed.xml" />
+<link rel="alternate" type="text/html" href="/ncti/" />
+<updated>2016-08-09T12:18:01-04:00</updated>
+<id>/ncti//</id>
 <author>
   <name>Chris 'Stick' MacLeod</name>
-  <uri>http://www.miscellaneous.net/ncti/</uri>
+  <uri>/ncti//</uri>
   <email>stick@miscellaneous.net</email>
 </author>
 
@@ -16,14 +16,35 @@
   
 
 <entry>
+  <title type="html"><![CDATA[Ncti-2017]]></title>
+  <link rel="alternate" type="text/html" href="/ncti//ncti-2017/" />
+  <id>/ncti//ncti-2017</id>
+  <published>2016-08-09T12:11:26-04:00</published>
+  <updated>2016-08-09T12:11:26-04:00</updated>
+  <author>
+    <name>Chris 'Stick' MacLeod</name>
+    <uri>/ncti/</uri>
+    <email>stick@miscellaneous.net</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Unity Farm will defend their title May 20-21, 2017.  Mark your calendar!&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/ncti//ncti-2017/&quot;&gt;Ncti-2017&lt;/a&gt; was originally published by Chris 'Stick' MacLeod at &lt;a href=&quot;/ncti/&quot;&gt;NCTI&lt;/a&gt; on August 09, 2016.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
   <title type="html"><![CDATA[2016 Wrap Up]]></title>
-  <link rel="alternate" type="text/html" href="http://www.miscellaneous.net/ncti/2016-wrap-up/" />
-  <id>http://www.miscellaneous.net/ncti/2016-wrap-up</id>
+  <link rel="alternate" type="text/html" href="/ncti//2016-wrap-up/" />
+  <id>/ncti//2016-wrap-up</id>
   <published>2016-06-06T12:01:33-04:00</published>
   <updated>2016-06-06T12:01:33-04:00</updated>
   <author>
     <name>Chris 'Stick' MacLeod</name>
-    <uri>http://www.miscellaneous.net/ncti</uri>
+    <uri>/ncti/</uri>
     <email>stick@miscellaneous.net</email>
   </author>
   <content type="html">
@@ -35,7 +56,7 @@ matches kept everything on schedule.&lt;/p&gt;
 
 &lt;p&gt;After 6 rounds of matches the standings were finalized.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.miscellaneous.net/ncti/images/2016-ncti-final-standings.png&quot; alt=&quot;Final Point Standings&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/ncti//images/2016-ncti-final-standings.png&quot; alt=&quot;Final Point Standings&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The Moon division turned out to be a bit of a group of death, though stellar play
 by the home team allowed them to come out on top.  After a bit of a shakey start
@@ -60,7 +81,7 @@ as the results were decided and the celebration began.&lt;/p&gt;
 
 &lt;p&gt;-stick&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://www.miscellaneous.net/ncti/2016-wrap-up/&quot;&gt;2016 Wrap Up&lt;/a&gt; was originally published by Chris 'Stick' MacLeod at &lt;a href=&quot;http://www.miscellaneous.net/ncti&quot;&gt;NCTI&lt;/a&gt; on June 06, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/ncti//2016-wrap-up/&quot;&gt;2016 Wrap Up&lt;/a&gt; was originally published by Chris 'Stick' MacLeod at &lt;a href=&quot;/ncti/&quot;&gt;NCTI&lt;/a&gt; on June 06, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -69,13 +90,13 @@ as the results were decided and the celebration began.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[2016 NCTI]]></title>
-  <link rel="alternate" type="text/html" href="http://www.miscellaneous.net/ncti/2016-ncti/" />
-  <id>http://www.miscellaneous.net/ncti/2016-ncti</id>
+  <link rel="alternate" type="text/html" href="/ncti//2016-ncti/" />
+  <id>/ncti//2016-ncti</id>
   <published>2016-01-18T14:05:26-05:00</published>
   <updated>2016-01-18T14:05:26-05:00</updated>
   <author>
     <name>Chris 'Stick' MacLeod</name>
-    <uri>http://www.miscellaneous.net/ncti</uri>
+    <uri>/ncti/</uri>
     <email>stick@miscellaneous.net</email>
   </author>
   <content type="html">
@@ -116,7 +137,7 @@ as the results were decided and the celebration began.&lt;/p&gt;
 
 &lt;p&gt;Tentative rosters are due by May 1, 2016.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://www.miscellaneous.net/ncti/2016-ncti/&quot;&gt;2016 NCTI&lt;/a&gt; was originally published by Chris 'Stick' MacLeod at &lt;a href=&quot;http://www.miscellaneous.net/ncti&quot;&gt;NCTI&lt;/a&gt; on January 18, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/ncti//2016-ncti/&quot;&gt;2016 NCTI&lt;/a&gt; was originally published by Chris 'Stick' MacLeod at &lt;a href=&quot;/ncti/&quot;&gt;NCTI&lt;/a&gt; on January 18, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -125,13 +146,13 @@ as the results were decided and the celebration began.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[2015 NCTI Wrapup]]></title>
-  <link rel="alternate" type="text/html" href="http://www.miscellaneous.net/ncti/2015-ncti-wrapup/" />
-  <id>http://www.miscellaneous.net/ncti/2015-ncti-wrapup</id>
+  <link rel="alternate" type="text/html" href="/ncti//2015-ncti-wrapup/" />
+  <id>/ncti//2015-ncti-wrapup</id>
   <published>2015-09-28T14:44:41-04:00</published>
   <updated>2015-09-28T14:44:41-04:00</updated>
   <author>
     <name>Chris 'Stick' MacLeod</name>
-    <uri>http://www.miscellaneous.net/ncti</uri>
+    <uri>/ncti/</uri>
     <email>stick@miscellaneous.net</email>
   </author>
   <content type="html">
@@ -139,7 +160,7 @@ as the results were decided and the celebration began.&lt;/p&gt;
 weather on Saturday 11 Teams slugged it out for a chance to play for the Jug.
 After the conclusion of group play the semi-finals were set.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.miscellaneous.net/ncti/images/2015-ncti-final-standings.png&quot; alt=&quot;Final Point Standings&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/ncti//images/2015-ncti-final-standings.png&quot; alt=&quot;Final Point Standings&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Both semi-final matches came down to the wire, with both #2 seeds taking out
 the #1s.  Craven Chains bested GreenvilleDGC 4-3, while TCP bested C4 4-3 with
@@ -159,7 +180,7 @@ their victory, and Bobby’s help with scores.&lt;/p&gt;
 &lt;p&gt;See everyone next year… Watch this space for more details!&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://www.miscellaneous.net/ncti/2015-ncti-wrapup/&quot;&gt;2015 NCTI Wrapup&lt;/a&gt; was originally published by Chris 'Stick' MacLeod at &lt;a href=&quot;http://www.miscellaneous.net/ncti&quot;&gt;NCTI&lt;/a&gt; on September 28, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/ncti//2015-ncti-wrapup/&quot;&gt;2015 NCTI Wrapup&lt;/a&gt; was originally published by Chris 'Stick' MacLeod at &lt;a href=&quot;/ncti/&quot;&gt;NCTI&lt;/a&gt; on September 28, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -168,13 +189,13 @@ their victory, and Bobby’s help with scores.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[NCTI Workdays]]></title>
-  <link rel="alternate" type="text/html" href="http://www.miscellaneous.net/ncti/workdays/ncti-workdays/" />
-  <id>http://www.miscellaneous.net/ncti/workdays/ncti-workdays</id>
+  <link rel="alternate" type="text/html" href="/ncti//workdays/ncti-workdays/" />
+  <id>/ncti//workdays/ncti-workdays</id>
   <published>2015-08-10T11:56:47-04:00</published>
   <updated>2015-08-10T11:56:47-04:00</updated>
   <author>
     <name>Chris 'Stick' MacLeod</name>
-    <uri>http://www.miscellaneous.net/ncti</uri>
+    <uri>/ncti/</uri>
     <email>stick@miscellaneous.net</email>
   </author>
   <content type="html">
@@ -188,7 +209,7 @@ their victory, and Bobby’s help with scores.&lt;/p&gt;
 &lt;p&gt;Contact &lt;a href=&quot;https://www.facebook.com/jm.cutters&quot;&gt;JM Cutter on facebook&lt;/a&gt; for more details.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://www.miscellaneous.net/ncti/workdays/ncti-workdays/&quot;&gt;NCTI Workdays&lt;/a&gt; was originally published by Chris 'Stick' MacLeod at &lt;a href=&quot;http://www.miscellaneous.net/ncti&quot;&gt;NCTI&lt;/a&gt; on August 10, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/ncti//workdays/ncti-workdays/&quot;&gt;NCTI Workdays&lt;/a&gt; was originally published by Chris 'Stick' MacLeod at &lt;a href=&quot;/ncti/&quot;&gt;NCTI&lt;/a&gt; on August 10, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -197,13 +218,13 @@ their victory, and Bobby’s help with scores.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[2015 NCTI]]></title>
-  <link rel="alternate" type="text/html" href="http://www.miscellaneous.net/ncti/2015-ncti/" />
-  <id>http://www.miscellaneous.net/ncti/2015-ncti</id>
+  <link rel="alternate" type="text/html" href="/ncti//2015-ncti/" />
+  <id>/ncti//2015-ncti</id>
   <published>2015-08-04T23:40:35-04:00</published>
   <updated>2015-08-04T23:40:35-04:00</updated>
   <author>
     <name>Chris 'Stick' MacLeod</name>
-    <uri>http://www.miscellaneous.net/ncti</uri>
+    <uri>/ncti/</uri>
     <email>stick@miscellaneous.net</email>
   </author>
   <content type="html">
@@ -213,7 +234,7 @@ their victory, and Bobby’s help with scores.&lt;/p&gt;
 
 &lt;p&gt;Captains are being contacted and teams will be finalized in the coming weeks.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://www.miscellaneous.net/ncti/2015-ncti/&quot;&gt;2015 NCTI&lt;/a&gt; was originally published by Chris 'Stick' MacLeod at &lt;a href=&quot;http://www.miscellaneous.net/ncti&quot;&gt;NCTI&lt;/a&gt; on August 04, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/ncti//2015-ncti/&quot;&gt;2015 NCTI&lt;/a&gt; was originally published by Chris 'Stick' MacLeod at &lt;a href=&quot;/ncti/&quot;&gt;NCTI&lt;/a&gt; on August 04, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -222,13 +243,13 @@ their victory, and Bobby’s help with scores.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[New website]]></title>
-  <link rel="alternate" type="text/html" href="http://www.miscellaneous.net/ncti/new-website/" />
-  <id>http://www.miscellaneous.net/ncti/new-website</id>
+  <link rel="alternate" type="text/html" href="/ncti//new-website/" />
+  <id>/ncti//new-website</id>
   <published>2015-08-04T23:37:20-04:00</published>
   <updated>2015-08-04T23:37:20-04:00</updated>
   <author>
     <name>Chris 'Stick' MacLeod</name>
-    <uri>http://www.miscellaneous.net/ncti</uri>
+    <uri>/ncti/</uri>
     <email>stick@miscellaneous.net</email>
   </author>
   <content type="html">
@@ -237,7 +258,7 @@ format how the teams are made up.  So here we are.  This will be authoritative
 and only trumped by information sent directly to the Captains.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://www.miscellaneous.net/ncti/new-website/&quot;&gt;New website&lt;/a&gt; was originally published by Chris 'Stick' MacLeod at &lt;a href=&quot;http://www.miscellaneous.net/ncti&quot;&gt;NCTI&lt;/a&gt; on August 04, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/ncti//new-website/&quot;&gt;New website&lt;/a&gt; was originally published by Chris 'Stick' MacLeod at &lt;a href=&quot;/ncti/&quot;&gt;NCTI&lt;/a&gt; on August 04, 2015.&lt;/p&gt;
   </content>
 </entry>
 

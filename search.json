@@ -2,8 +2,16 @@
 
   
     {
+      "title"			: "Ncti-2017",
+      "link"			: "/ncti//ncti-2017/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "2016 Wrap Up",
-      "link"			: "http://www.miscellaneous.net/ncti/2016-wrap-up/",
+      "link"			: "/ncti//2016-wrap-up/",
       "excerpt"		: ""
     }
   
@@ -11,7 +19,7 @@
   
     ,{
       "title"			: "2016 NCTI",
-      "link"			: "http://www.miscellaneous.net/ncti/2016-ncti/",
+      "link"			: "/ncti//2016-ncti/",
       "excerpt"		: ""
     }
   
@@ -19,7 +27,7 @@
   
     ,{
       "title"			: "2015 NCTI Wrapup",
-      "link"			: "http://www.miscellaneous.net/ncti/2015-ncti-wrapup/",
+      "link"			: "/ncti//2015-ncti-wrapup/",
       "excerpt"		: ""
     }
   
@@ -27,7 +35,7 @@
   
     ,{
       "title"			: "NCTI Workdays",
-      "link"			: "http://www.miscellaneous.net/ncti/workdays/ncti-workdays/",
+      "link"			: "/ncti//workdays/ncti-workdays/",
       "excerpt"		: ""
     }
   
@@ -35,7 +43,7 @@
   
     ,{
       "title"			: "2015 NCTI",
-      "link"			: "http://www.miscellaneous.net/ncti/2015-ncti/",
+      "link"			: "/ncti//2015-ncti/",
       "excerpt"		: ""
     }
   
@@ -43,7 +51,7 @@
   
     ,{
       "title"			: "New website",
-      "link"			: "http://www.miscellaneous.net/ncti/new-website/",
+      "link"			: "/ncti//new-website/",
       "excerpt"		: ""
     }
   
@@ -59,7 +67,7 @@
   
     ,{
       "title"			: "The Rules of Matchplay",
-      "link"			: "http://www.miscellaneous.net/ncti/rules/",
+      "link"			: "/ncti//rules/",
       "excerpt"		: ""
     }
   
@@ -67,7 +75,7 @@
   
     ,{
       "title"			: "About the NCTI",
-      "link"			: "http://www.miscellaneous.net/ncti/about/",
+      "link"			: "/ncti//about/",
       "excerpt"		: "History of NCTI"
     }
   
@@ -77,7 +85,7 @@
   
     ,{
       "title"			: "The Teams",
-      "link"			: "http://www.miscellaneous.net/ncti/teams/",
+      "link"			: "/ncti//teams/",
       "excerpt"		: "Team rules and composition"
     }
   
@@ -85,7 +93,7 @@
   
     ,{
       "title"			: "The Format",
-      "link"			: "http://www.miscellaneous.net/ncti/format/",
+      "link"			: "/ncti//format/",
       "excerpt"		: "Tournament format and details"
     }
   
@@ -97,7 +105,7 @@
   
     ,{
       "title"			: "Theme Setup",
-      "link"			: "http://www.miscellaneous.net/ncti/theme-setup/",
+      "link"			: "/ncti//theme-setup/",
       "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
     }
   
@@ -105,7 +113,7 @@
   
     ,{
       "title"			: "The Course",
-      "link"			: "http://www.miscellaneous.net/ncti/course/",
+      "link"			: "/ncti//course/",
       "excerpt"		: ""
     }
   
@@ -117,7 +125,7 @@
   
     ,{
       "title"			: "The Teams",
-      "link"			: "http://www.miscellaneous.net/ncti/teams/invited.html",
+      "link"			: "/ncti//teams/invited.html",
       "excerpt"		: ""
     }
   
