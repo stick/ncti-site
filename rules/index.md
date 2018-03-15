@@ -12,17 +12,16 @@ image:
 
 Matchplay is a different animal.  It involves strategy and focused aggression.
 
+[Official PDGA Matchplay Rules](https://www.pdga.com/rules/official-rules-disc-golf/appendix-a)
+
 Matchplay is based on whoever wins the most holes.  If you score lower than your
 opponent you have won that hole (1UP).  As the match proceeds you may come to a
 point where you are up the same number of holes as remain.  This is referred to 
 as being dormie-X or just dormie.  For example in a 9 hole match if I am 3-UP
-with 3 holes to play I am dormie-3.  I only need to half or win the next hole to
+with 3 holes to play then I am dormie-3.  I only need to half or win the next hole to
 win the match.
 
-## Rules Specific to Matchplay
+All match results should be reported as holes up / holes remaining for tie-breaking
+purposes. For example If I am 3UP with 3 to play and my opponent and I half the hole,
+I would win "3 and 2".  If I won that hole the match result would be "4 and 2" (4UP with 2 remaining).
 
-* Any shot can be conceeded (given) by you or your opponent.  Conceeded shots 
-  should be given, never asked for.  It is the players sole discretion of a shot
-  is to be conceeded.
-* A hole may be conceeded at any time.  It is the players sole discretion to conceed
-  a hole or not.
