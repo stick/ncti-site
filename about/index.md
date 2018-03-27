@@ -32,7 +32,7 @@ Chris 'Stick' MacLeod
 
 ## Trophy Design and Construction
 
-[Jay Clark](https://www.facebook.com/jason.t.clark1)
+- [Jay Clark](https://www.facebook.com/jason.t.clark1)
 
 ## Logos and Photography
 
@@ -60,3 +60,11 @@ Chris 'Stick' MacLeod
 </figure>
 
 To Cutt, and Farm lady for opening thier home, their land and making the NCTI possible.
+
+## Farm Charity
+
+A portion of all NCTI entries to go support not only the course but also the offical
+Farm Charities
+
+- [Steve Johnson's Parkinson's Disease Fund](https://www.gofundme.com/xe94vpg8)
+- The Blessed Kitchen of Franklin County
