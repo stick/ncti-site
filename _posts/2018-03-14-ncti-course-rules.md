@@ -2,9 +2,8 @@
 layout: post
 title: NCTI Course Rules
 modified:
-categories:
 excerpt:
-tags: []
+tags: [ "2018", rules, layout ]
 image:
   feature: mastheads/ncti-masthead-basket.png
   credit: Barrett Pantton Photography

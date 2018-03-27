@@ -2,9 +2,8 @@
 layout: post
 title: Divisions Are Set
 modified:
-categories: 
 excerpt:
-tags: []
+tags: [ "2018", info, divisions ]
 image:
   feature: mastheads/ncti-masthead-basket.png
   credit: Barrett Pantton Photography

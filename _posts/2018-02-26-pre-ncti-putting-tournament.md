@@ -2,9 +2,8 @@
 layout: post
 title: Pre-NCTI Putting Tournament
 modified:
-categories: 
 excerpt:
-tags: []
+tags: [ "2018", info, putting ]
 image:
   feature: mastheads/ncti-masthead-basket.png
   credit: Barrett Pantton Photography

@@ -18,6 +18,8 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 3)
       safe_yaml (~> 1.0)
+    jekyll-archives (2.1.1)
+      jekyll (>= 2.4)
     jekyll-minimagick (0.0.4)
       jekyll (>= 0.10.0)
       mini_magick (>= 3.3)
@@ -78,6 +80,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  jekyll-archives
   jekyll-minimagick
   jekyll-sitemap
   jekyll-tagging

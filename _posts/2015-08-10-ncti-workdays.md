@@ -2,9 +2,8 @@
 layout: post
 title: "NCTI Workdays"
 modified:
-categories: workdays
 excerpt:
-tags: [ workdays, ncti ]
+tags: [ workdays, "2015" ]
 image:
   feature: mastheads/ncti-masthead-basket.png
   credit: Barrett Pantton Photography

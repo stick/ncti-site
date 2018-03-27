@@ -2,9 +2,8 @@
 layout: post
 title: NCTI Workday
 modified:
-categories: 
 excerpt:
-tags: [2018, workdays]
+tags: [ "2018", info, workday ]
 image:
   feature: mastheads/ncti-masthead-basket.png
   credit: Barrett Pantton Photography

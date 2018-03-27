@@ -10,4 +10,5 @@ gem 'pygments.rb'
 
 group :jekyll_plugins do
   gem 'octopress-image-tag'
+  gem 'jekyll-archives'
 end

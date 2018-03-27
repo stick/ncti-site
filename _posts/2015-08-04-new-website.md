@@ -2,9 +2,8 @@
 layout: post
 title: "New website"
 modified:
-categories: 
 excerpt:
-tags: [website, ncti]
+tags: ["2015", website]
 image:
   feature: mastheads/ncti-masthead-basket.png
   credit: Barrett Pantton Photography

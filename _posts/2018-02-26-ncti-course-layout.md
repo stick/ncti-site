@@ -2,9 +2,8 @@
 layout: post
 title: NCTI Course Layout
 modified:
-categories:
 excerpt:
-tags: [2018 layout]
+tags: [ "2018", layout ]
 image:
   feature: mastheads/ncti-masthead-basket.png
   credit: Barrett Pantton Photography

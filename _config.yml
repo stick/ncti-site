@@ -6,10 +6,12 @@ description: North Carolina Disc Golf's Premier Matchplay Event
 logo: ncti-logo-square.png
 search: true
 url: /ncti/
+photo_credit: Barrett Pantton Photography
+photo_creditlink: https://www.facebook.com/burbleall
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   /:year/:month/:day/:title/
 markdown:    kramdown
 highlighter: pygments
 sass:
@@ -17,6 +19,7 @@ sass:
   style: compressed
 plugins:
   - jekyll-sitemap
+  - jekyll-archives
 
 kramdown:
   auto_ids: true
@@ -64,6 +67,12 @@ page_layout: page
 # Format titles with titlecase?
 titlecase: true
 
-image:
-  source: images/
-
+jekyll-archives:
+  enabled: 
+    - year
+    - month
+    - day
+  layouts:
+    year: year
+    month: month
+    day: day

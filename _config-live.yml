@@ -9,7 +9,7 @@ url: http://www.miscellaneous.net/ncti
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   /:year/:month/:day/:title/
 markdown:    kramdown
 highlighter: pygments
 sass:
