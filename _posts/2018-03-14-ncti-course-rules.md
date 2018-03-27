@@ -61,7 +61,7 @@ date: 2018-03-14T19:47:55-04:00
 1. Cow Lane - Par 3 - 182'
     - None
 
-1. Dry Turleback - Par 4 - 633'
+1. Dry Turtleback - Par 4 - 583'
     - Pond near basket, if flags/stakes/string are present they define the OB line, otherwise surrounded by water.
 
 1. Grandaddy's Watering Hole - Par 3 - 293'

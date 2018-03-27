@@ -18,6 +18,9 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 3)
       safe_yaml (~> 1.0)
+    jekyll-minimagick (0.0.4)
+      jekyll (>= 0.10.0)
+      mini_magick (>= 3.3)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
     jekyll-sitemap (1.1.1)
@@ -32,6 +35,7 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
+    mini_magick (4.8.0)
     multi_json (1.11.2)
     nuggets (1.5.0)
     octopress (3.0.12.pre.1)
@@ -48,6 +52,8 @@ GEM
       jekyll (~> 3.0)
     octopress-hooks (2.6.2)
       jekyll (>= 2.0)
+    octopress-image-tag (1.1.0)
+      jekyll
     pathutil (0.16.0)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.1)
@@ -72,8 +78,10 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  jekyll-minimagick
   jekyll-sitemap
   jekyll-tagging
   octopress (~> 3.0.0.rc.12)
+  octopress-image-tag
   pygments.rb
   rouge

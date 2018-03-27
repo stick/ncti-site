@@ -29,7 +29,6 @@ Chris 'Stick' MacLeod
 ## Technical Assistance
 
 - Mike Norris
-- Jay Pontier
 
 ## Trophy Design and Construction
 
@@ -51,12 +50,13 @@ Chris 'Stick' MacLeod
 
 * ChiTown Paul (Also course maps and scorecards)
 * Calamari Jones
+* Rick Black
 
 ## Very Special Thanks
 
 <figure>
-    <img src="{{ site.url }}/images/cutt-stacy.png" alt="Cutt &amp; Stacy">
-    <figcaption>Cutt &amp; Stacy</figcaption>
+    <img src="{{ site.url }}/images/cutt-staci.png" alt="Cutt &amp; Staci">
+    <figcaption>Cutt &amp; Staci</figcaption>
 </figure>
 
 To Cutt, and Farm lady for opening thier home, their land and making the NCTI possible.

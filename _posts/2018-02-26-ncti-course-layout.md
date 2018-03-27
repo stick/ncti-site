@@ -28,7 +28,7 @@ Distances are approximate.
 1. Ms Terri's Beach - par 3
 1. The Raven - par 3 - 303'
 1. Cow Lane - par 3 - 183'
-1. Dry Turtleback - par 4 - 633'
+1. Dry Turtleback - par 4 - 583'
 1. Grandaddy's Watering Hole - par 3 - 293'
 1. The Barnyard - par 3 - 363'
 1. The Creek - par 3 - 263'
