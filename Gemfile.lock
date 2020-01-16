@@ -1,8 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.6.0)
-      public_suffix (>= 2.0.2, < 4.0)
+    addressable (2.7.0)
+      public_suffix (>= 2.0.2, < 5.0)
     colorator (1.1.0)
     concurrent-ruby (1.1.5)
     em-websocket (0.5.1)
@@ -10,13 +10,13 @@ GEM
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
     eventmachine (1.2.7-x64-mingw32)
-    ffi (1.10.0)
-    ffi (1.10.0-x64-mingw32)
+    ffi (1.12.1)
+    ffi (1.12.1-x64-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
-    jekyll (3.8.5)
+    jekyll (3.8.6)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
@@ -36,7 +36,7 @@ GEM
       mini_magick (>= 3.3)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
-    jekyll-sitemap (1.3.1)
+    jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-tagging (1.1.0)
       nuggets
@@ -44,15 +44,14 @@ GEM
       listen (~> 3.0)
     kramdown (1.17.0)
     liquid (4.0.3)
-    listen (3.1.5)
-      rb-fsevent (~> 0.9, >= 0.9.4)
-      rb-inotify (~> 0.9, >= 0.9.7)
-      ruby_dep (~> 1.2)
+    listen (3.2.1)
+      rb-fsevent (~> 0.10, >= 0.10.3)
+      rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
-    mini_magick (4.9.3)
-    multi_json (1.13.1)
+    mini_magick (4.10.1)
+    multi_json (1.14.1)
     nuggets (1.6.0)
-    octopress (3.0.12.pre.1)
+    octopress (3.0.11)
       jekyll (>= 2.0)
       mercenary (~> 0.3.2)
       octopress-deploy
@@ -70,17 +69,16 @@ GEM
       jekyll
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (3.0.3)
+    public_suffix (4.0.3)
     pygments.rb (1.2.1)
       multi_json (>= 1.0.0)
     rb-fsevent (0.10.3)
-    rb-inotify (0.10.0)
+    rb-inotify (0.10.1)
       ffi (~> 1.0)
-    redcarpet (3.4.0)
-    rouge (3.3.0)
-    ruby_dep (1.5.0)
+    redcarpet (3.5.0)
+    rouge (3.15.0)
     safe_yaml (1.0.5)
-    sass (3.7.3)
+    sass (3.7.4)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
@@ -97,10 +95,11 @@ DEPENDENCIES
   jekyll-minimagick
   jekyll-sitemap
   jekyll-tagging
-  octopress (~> 3.0.0.rc.12)
+  octopress
   octopress-image-tag
+  public_suffix
   pygments.rb
   rouge
 
 BUNDLED WITH
-   1.11.2
+   2.1.4
